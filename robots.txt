@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yunahchau.afrobeatsdundee.com/sitemap.xml
